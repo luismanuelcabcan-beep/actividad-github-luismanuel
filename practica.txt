@@ -1,0 +1,3 @@
+¿Para qué sirve GitHub en proyectos colaborativos?
+
+GitHub es una plataforma que tiene como objetivo el trabajo colaborativo en otras palabras que varias personas pueden trabajar juntas en un mismo proyecto, compartir archivos y llevar un control de los cambios que se realizan. También permite guardar versiones anteriores del trabajo, revisar las modificaciones y mantener organizado el desarrollo del proyecto. De esta manera, los integrantes de un equipo pueden colaborar de forma más ordenada y evitar perder información.
